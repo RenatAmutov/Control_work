@@ -1,0 +1,15 @@
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\Ex.csproj.AssemblyReference.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\Ex.AssemblyInfoInputs.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\Ex.AssemblyInfo.cs
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\Ex.csproj.CoreCompileInputs.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\bin\Debug\net7.0\Ex.exe
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\bin\Debug\net7.0\Ex.deps.json
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\bin\Debug\net7.0\Ex.runtimeconfig.json
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\bin\Debug\net7.0\Ex.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\bin\Debug\net7.0\Ex.pdb
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\Ex.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\refint\Ex.dll
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\Ex.pdb
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\Ex.genruntimeconfig.cache
+C:\Users\Designer8\Desktop\Ренат\Программирование\Control_work\Ex\obj\Debug\net7.0\ref\Ex.dll
