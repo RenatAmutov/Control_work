@@ -18,16 +18,37 @@ void PrintAray(string[] array)
         Console.Write($"{array[i]} ");
     }
 }
-void IshemSlovaMenseTrehSinvolov(string[] array)
+int PoiskKolichestvaSlov(string[] array)
 {
+    int count = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        
+        if (array[i].Length <= 3)
+        {
+            count++;
+        }
+    }
+    return count;
+}  
+void CreateNewArray(string[] firstArray, string[] secondArray)
+{
+    for (int i = 0, j = 0; i < firstArray.Length; i++)
+    {
+        if (firstArray[i].Length <= 3)
+        {
+          secondArray[j] =  firstArray[i];
+          j++; 
+        }
     }
 }
-
 Console.WriteLine("Сколько слов будет в массиве ? ");
 int a = Convert.ToInt32(Console.ReadLine());
 string[] array = new string[a];
 CreateArray(array);
+Console.WriteLine($"Массив введенных слов: ");
 PrintAray(array);
+string[] newStringArray = new string[PoiskKolichestvaSlov(array)];
+CreateNewArray(array, newStringArray);
+Console.WriteLine();
+Console.WriteLine($"Массив слов меньше 4х символов: ");
+PrintAray(newStringArray);
